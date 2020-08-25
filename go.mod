@@ -51,3 +51,7 @@ replace github.com/Azure/go-autorest => github.com/Azure/go-autorest v13.3.2+inc
 replace k8s.io/cli-runtime => k8s.io/cli-runtime v0.18.3
 
 replace k8s.io/client-go => k8s.io/client-go v0.18.3
+
+// original no longer available
+replace bitbucket.org/ww/goautoneg => github.com/munnerz/goautoneg v0.0.0-20120707110453-a547fc61f48d
+replace vbom.ml/util => github.com/fvbommel/util v0.0.0-20180919145318-efcd4e0f9787
